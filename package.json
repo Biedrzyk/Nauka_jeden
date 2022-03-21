@@ -1,0 +1,20 @@
+{
+  "name": "Nauka_jeden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biedrzyk/Nauka_jeden.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Biedrzyk/Nauka_jeden/issues"
+  },
+  "homepage": "https://github.com/Biedrzyk/Nauka_jeden#readme"
+}
