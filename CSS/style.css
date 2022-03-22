@@ -1,7 +1,26 @@
 .title {
-    color:red;
-    background-color: chartreuse;
+    color: red;
     text-align: center;
-    display:flex;
+    display: flex;
     justify-content: center;
-    }
+    z-index: 1;
+    position: relative;
+}
+
+.start {
+    border-radius: 20px;
+    background-color: chartreuse;
+    z-index: 2;
+    width: 230px;
+    height: auto;
+    margin: auto;
+}
+
+.text {
+    display: flex;
+    column-count: 3;
+    column-gap: 20px;
+    column-rule-style: solid;
+    column-rule-width: 1px;
+    column-rule-color: #D1D1D1;
+}
