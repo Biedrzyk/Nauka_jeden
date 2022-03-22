@@ -1,3 +1,7 @@
 .title {
     color:red;
-}
+    background-color: chartreuse;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    }
