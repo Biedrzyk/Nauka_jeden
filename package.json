@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Biedrzyk/Nauka_jeden/issues"
   },
-  "homepage": "https://github.com/Biedrzyk/Nauka_jeden#readme"
+  "homepage": "https://github.com/Biedrzyk/Nauka_jeden#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.9"
+  }
 }
