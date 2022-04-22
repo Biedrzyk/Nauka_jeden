@@ -28,30 +28,32 @@
 
 /* NAV */
 
+body {
+    margin: 0;
+}
+
+nav ul {
+    background: lightgray;
+    height: 50px;
+    box-shadow: 0px 0px 20px 2px #000;
+}
+
 li {
     float: left;
     width: 25%;
     text-align: center;
-}
-
-nav {
-    border-bottom: 1px solid black;
-}
-
-
-/*.crumbs ol {
+    list-style-position: inside;
     list-style-type: none;
-    padding-left: 0;
+    color: black;
+    padding: 15px 0;
 }
 
-.crumb {
-    display: inline-block;
+a {
+    text-decoration: none;
+    color: black;
 }
 
-.crumb a::after {
-    display: inline-block;
-    color: #000;
-    font-size: 80%;
-    font-weight: bold;
-    padding: 0 3px;
-}*/
+a:hover,
+a:focus {
+    color: green;
+}
